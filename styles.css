@@ -1,6 +1,6 @@
 /* ==========================================================================
    AVENZA SHOP - SOCIEDAD SAN VICENTE DE PAUL
-   Estilos Comerciales Prémium para Verificación Meta (www.avenzashop.online)
+   Estilos Comerciales Prémium para E-commerce (www.avenzashop.online)
    ========================================================================== */
 
 :root {
@@ -749,7 +749,7 @@ a:hover {
     gap: 1rem;
 }
 
-.meta-notice {
+.footer-notice {
     color: #38bdf8;
     display: flex;
     align-items: center;
